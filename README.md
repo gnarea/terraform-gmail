@@ -1,7 +1,9 @@
 # Terraform modules to manage G Suite (fka Google Apps) MX Records
 
-This is a (hopefully temporary) set of Terraform modules to manage MX records
-for Gmail in [G Suite](https://gsuite.google.com/) (fka Google Apps).
+This is a set of Terraform modules to manage MX records for Gmail in
+[G Suite](https://gsuite.google.com/) (fka Google Apps). It's meant to be
+temporary until [Terraform supports the functionality
+out-of-the-box](https://github.com/hashicorp/terraform/issues/14021).
 
 ## Supported DNS Hosting Providers
 
