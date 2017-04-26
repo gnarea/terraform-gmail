@@ -1,5 +1,7 @@
 # Terraform module for G Suite MX records in CloudFlare
 
+This module requires the `cloudflare` provider to have been configured.
+
 ## Parameters
 
 - `domain` (required): The APEX domain (e.g., example.com).
