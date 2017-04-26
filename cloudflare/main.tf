@@ -8,11 +8,11 @@ variable "ttl" {
 variable "mx_server_domains" {
   type = "list"
   default = [
-    "ASPMX.L.GOOGLE.COM",
-    "ALT1.ASPMX.L.GOOGLE.COM",
-    "ALT2.ASPMX.L.GOOGLE.COM",
-    "ALT3.ASPMX.L.GOOGLE.COM",
-    "ALT4.ASPMX.L.GOOGLE.COM",
+    "aspmx.l.google.com",
+    "alt1.aspmx.l.google.com",
+    "alt2.aspmx.l.google.com",
+    "alt3.aspmx.l.google.com",
+    "alt4.aspmx.l.google.com",
   ]
 }
 
