@@ -8,6 +8,7 @@ out-of-the-box](https://github.com/hashicorp/terraform/issues/14021).
 ## Supported DNS Hosting Providers
 
 - [CloudFlare](/cloudflare/).
+- [Amazon Route 53](/route53/).
 
 ## Limitations
 
