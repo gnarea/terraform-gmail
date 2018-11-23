@@ -1,11 +1,8 @@
 # Terraform modules to manage G Suite (fka Google Apps) MX Records
 
-<aside class="warning">
-    This module is now deprecated but will be kept on GitHub to avoid breaking production environments. The
-    CloudFlare integration has been reimplemented as the module
-    <a href="https://registry.terraform.io/modules/gnarea/gmail/cloudflare">gnarea/gmail/cloudflare</a> on the
-    Terraform Registry.
-</aside>
+**Note: This module is now deprecated** but will be kept on GitHub to avoid breaking production environments. The
+CloudFlare integration has been reimplemented as
+[gnarea/gmail/cloudflare](https://registry.terraform.io/modules/gnarea/gmail/cloudflare) on the Terraform Registry.
 
 This is a set of Terraform modules to manage MX records for Gmail in the
 [G Suite](https://gsuite.google.com/) (fka Google Apps). It's meant to be
