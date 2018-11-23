@@ -1,5 +1,9 @@
 # Terraform module for G Suite MX records in Amazon Route 53
 
+<aside class="warning">
+This module is now deprecated but will be kept on GitHub to avoid breaking production environments.
+</aside>
+
 This module requires the `aws` provider to have been configured.
 
 ## Parameters
